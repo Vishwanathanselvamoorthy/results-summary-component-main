@@ -4,15 +4,10 @@
   box-sizing: border-box;
   font-family: "Hanken Grotesk";
 }
+
 body {
-  padding: 0%;
-  margin: auto;
-}
-.main-container {
-  max-width: 400px;
-  margin-left: auto;
-  margin-right: auto;
   padding: 0;
+  margin: 0%;
 }
 
 .container-1 {
@@ -25,6 +20,7 @@ body {
   padding: 30px;
   color: white;
   border-radius: 0px 0px 40px 40px;
+  width: 100%;
 }
 
 .container-1 h2 {
