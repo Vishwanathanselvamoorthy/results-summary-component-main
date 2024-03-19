@@ -4,13 +4,15 @@
   box-sizing: border-box;
   font-family: "Hanken Grotesk";
 }
+body {
+  padding: 0%;
+  margin: auto;
+}
 .main-container {
   max-width: 400px;
   margin-left: auto;
-  margin-right: auto; 
+  margin-right: auto;
   padding: 0;
-  
-
 }
 
 .container-1 {
